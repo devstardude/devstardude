@@ -1,5 +1,5 @@
 ![N|Solid](https://i.ibb.co/zHHTPmJ/linkedin-banner-2.jpg)
-# I'm Arun Shkhar
+# I'm Arun Shekhar
 ### A Full Stack MERN Web Developer & Designer focused on crafting Great web experiences. 
 
 <!--
