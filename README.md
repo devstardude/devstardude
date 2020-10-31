@@ -1,4 +1,6 @@
-### Hi there 👋
+![N|Solid](https://i.ibb.co/zHHTPmJ/linkedin-banner-2.jpg)
+# I'm Arun Shkhar
+##### A Full Stack MERN Web Developer & Designer focused on crafting Great web experiences. 
 
 <!--
 **imdude001/imdude001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
