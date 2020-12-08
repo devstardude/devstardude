@@ -2,14 +2,14 @@
 # I'm Arun Shekhar
 ### A Full Stack (MERN - MongoDB Express React.js Node.js) Web Developer & Designer focused on crafting Great web experiences. 
 
-- 🔭 I’m currently working on : Optimizing my Portfolio and Getting a good Internship opportunity
-- 🔱 I’m currently learning : Advance features in Git 
-- 👯 I’m looking to collaborate on : Web Projects of MERN Stack 
-- 🤔 I’m looking for help with : Getting Six pack Abs
-- 💬 Ask me about : Anything... I'll try my best ! 
-- 📫 How to reach me: devstardude.web.app and chose your desired medium to slide in my DM 
+- 🔭 I’m currently working on : Optimizing my Portfolio and Getting a good Internship opportunity.
+- 🔱 I’m currently learning : Advance features in Git.
+- 👯 I’m looking to collaborate on : Web Projects of MERN Stack.
+- 🤔 I’m looking for help with : Getting Six pack Abs.
+- 💬 Ask me about : Anything... I'll try my best! 
+- 📫 How to reach me: devstardude.web.app and chose your desired medium to slide in my DM. 
 - 😄 Pronouns: Dude 😎
-- ⚡ Fun fact: Search 'Devstar Dude' on Youtube 🔥
+- ⚡ Fun fact: Search 'Devstar Dude' on Youtube. 🔥
 - ☯ Fav quote : “All Men Have Limits. They Learn What They Are And Learn Not To Exceed Them. I Ignore Mine." ~ Batman
 
 #### These are my Project's quick links I made while Learning.
