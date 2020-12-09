@@ -12,7 +12,7 @@
 - ⚡ Fun fact: Search 'Devstar Dude' on Youtube. 🔥
 - ☯ Fav quote : “All Men Have Limits. They Learn What They Are And Learn Not To Exceed Them. I Ignore Mine." ~ Batman
 
-#### These are my Project's quick links I made while Learning.
+#### These are quick links of my Projects I made while Learning.
 1) Place Visité (MERN Stack)
 - Repo link : <a href="https://github.com/imdude001/Places-visite-firebase-image-upload" >See Code</a>
 - App link : <a href="https://myplace009.web.app/">See Live</a> 
