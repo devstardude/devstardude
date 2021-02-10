@@ -5,10 +5,9 @@
 - 🔭 I’m currently working on : Optimizing my Portfolio and Getting a good Internship opportunity.
 - 🔱 I’m currently learning : Advance features in Git.
 - 👯 I’m looking to collaborate on : Web Projects of MERN Stack.
-- 🤔 I’m looking for help with : Getting Six pack Abs.
 - 💬 Ask me about : Anything... I'll try my best! 
 - 📫 How to reach me: <a  href="https://devstardude.web.app/" target="_blank">Click here</a> and chose your desired medium to slide into my DM. 
-- 😄 Pronouns: Dude 😎
+- 😄 Pronouns: Devstar 😎
 - ⚡ Fun fact: Search 'Devstar Dude' on Youtube. 🔥
 - ☯ Fav quote : “All Men Have Limits. They Learn What They Are And Learn Not To Exceed Them. I Ignore Mine." ~ Batman
 
