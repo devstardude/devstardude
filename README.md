@@ -4,12 +4,11 @@
 
 ### A Full Stack (MERN - MongoDB Express React.js Node.js) Web Developer & Designer focused on crafting Great web experiences.
 
-- 🔭 I’m currently working on : Optimizing my Portfolio and Getting a good Internship opportunity.
-- 🔱 I’m currently learning : Advance features in Git.
+- 🔭 I’m currently working on : Getting a good Internship opportunity.
+- 🔱 I’m currently learning : Data structures and Next.js
 - 👯 I’m looking to collaborate on : Web Projects of MERN Stack.
 - 💬 Ask me about : Anything... I'll try my best!
 - 📫 How to reach me: <a  href="https://devstardude.web.app/" target="_blank">Click here</a> and chose your desired medium to slide into my DM.
-- 😄 Pronouns: Devstar 😎
 - ⚡ Fun fact: Search 'Devstar Dude' on Youtube. 🔥
 - ☯ Fav quote : “All Men Have Limits. They Learn What They Are And Learn Not To Exceed Them. I Ignore Mine." ~ Batman
 
@@ -45,3 +44,4 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://postman.com" target="_blank"> <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>  </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdude001&show_icons=true&locale=en" alt="imdude001" /></p>
+
