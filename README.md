@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on : Getting a good Internship opportunity.
 - 🔱 I’m currently learning : Data structures and Next.js
-- 👯 I’m looking to collaborate on : Web Projects of MERN Stack.
-- 💬 Ask me about : Anything... I'll try my best!
+- 👯 I’m looking to collaborate on : MERN based web applications.
+- 💬 Ask me about : Web Technologies and stacks
 - 📫 How to reach me: <a  href="https://devstardude.web.app/" target="_blank">Click here</a> and chose your desired medium to slide into my DM.
 - ⚡ Fun fact: Search 'Devstar Dude' on Youtube. 🔥
 - ☯ Fav quote : “All Men Have Limits. They Learn What They Are And Learn Not To Exceed Them. I Ignore Mine." ~ Batman
