@@ -16,22 +16,22 @@
 
 > 1. Visité - A place tracker (MERN Stack)
 
-- Repo link : <a href="https://github.com/imdude001/Visite-place-tracker" >See Code</a>
+- Repo link : <a href="https://github.com/devstardude/Visite-place-tracker" >See Code</a>
 - App link : <a href="https://visite-place-tracker.web.app/">See Live</a>
 
 > 2.  Burger Blast (React- Redux-Firebase Stack)
 
-- Repo link : <a href="https://github.com/imdude001/Burger-Blast" >See Code</a>
+- Repo link : <a href="https://github.com/devstardude/Burger-Blast" >See Code</a>
 - App link : <a href="https://burger-blast.web.app/">See Live</a>
 
 > 3.  Shop Sharer (React-Firebase Stack)
 
-- Repo link : <a href="https://github.com/imdude001/Shop-Sharer">See Code</a>
+- Repo link : <a href="https://github.com/devstardude/Shop-Sharer">See Code</a>
 - App link : <a href="https://shopsharer009.web.app/" >See Live</a>
 
 > 4.  Classy Blog (MERN Stack)
 
-- Repo link : <a href="https://github.com/imdude001/Classy-Blog-MERN">See Code</a>
+- Repo link : <a href="https://github.com/devstardude/Classy-Blog-MERN">See Code</a>
 - App link : <a href="https://classyblog-react.web.app/">See Live</a>
 
 #### Languages and Tools
@@ -43,5 +43,5 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://postman.com" target="_blank"> <img  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdude001&show_icons=true&locale=en" alt="imdude001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devstardude&show_icons=true&locale=en" alt="devstardude" /></p>
 
