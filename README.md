@@ -1,4 +1,4 @@
-## Hi I'm Arun, Welcome to my Repo world.
+## Hi I'm Arun, Welcome to my Reposiworld.
 
 ### An experienced Full-Stack Web and Blockchain developer, Having knowlege in variety of Tech stacks. Likes building meaningful features and solving complex problems.
 
